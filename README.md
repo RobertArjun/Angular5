@@ -1,2 +1,0 @@
-# WRTT_DEMO
-WRTT CI CD CT
